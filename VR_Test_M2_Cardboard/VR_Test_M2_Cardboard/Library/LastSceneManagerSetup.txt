@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VR_Test_M2_Cardboard.unity
+  isLoaded: 1
+  isActive: 1
